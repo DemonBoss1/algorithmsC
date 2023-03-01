@@ -1,0 +1,13 @@
+﻿  Game_Room.c
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\sorting.h(1,13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\list.h(1,13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(46,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(48,20): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int [10][10]"
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(48,15): warning C4024: create_rooms: различные типы для формального и фактического параметров 1
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(49,24): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int [10][10]"
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(49,19): warning C4024: check_way: различные типы для формального и фактического параметров 1
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(50,20): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int [10][10]"
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(50,15): warning C4024: cleer_rooms: различные типы для формального и фактического параметров 1
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(51,21): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int [10][10]"
+C:\Users\Дмитрий\source\repos\algoritm\algoritm\Game_Room.c(51,16): warning C4024: create_rooms: различные типы для формального и фактического параметров 1
+  algoritm.vcxproj -> C:\Users\Дмитрий\source\repos\algoritm\Debug\algoritm.exe
